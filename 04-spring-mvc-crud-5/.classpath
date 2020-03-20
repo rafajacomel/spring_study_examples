@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="solution-code-spring-mvc-CRUD-CRM-add-customer/src"/>
+	<classpathentry kind="src" path="solution-code-spring-mvc-CRUD-CRM-delete-customer/src"/>
+	<classpathentry kind="src" path="solution-code-spring-mvc-CRUD-CRM-list-customers/src"/>
+	<classpathentry kind="src" path="solution-code-spring-mvc-CRUD-CRM-refactor-add-get-post-mappings/src"/>
+	<classpathentry kind="src" path="solution-code-spring-mvc-CRUD-CRM-refactor-add-service-layer/src"/>
+	<classpathentry kind="src" path="solution-code-spring-mvc-CRUD-CRM-setup-and-test/src"/>
+	<classpathentry kind="src" path="solution-code-spring-mvc-CRUD-CRM-update-customer/src"/>
+	<classpathentry kind="lib" path="web-customer-tracker-starter-files/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1.jar"/>
+	<classpathentry kind="lib" path="web-customer-tracker-starter-files/WebContent/WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="web-customer-tracker-starter-files/WebContent/WEB-INF/lib/mysql-connector-java-8.0.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
