@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-after-finally/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-after-returning/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-after-throwing/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-around-handle-exception/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-around-rethrow-exception/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-around-with-logger/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-around/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-before-advice/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-basic/solution-code-spring-aop-01-01-match-addAccount-method/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-basic/solution-code-spring-aop-01-02-match-any-addAccount-method-MembershipDAO/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-basic/solution-code-spring-aop-01-03-match-only-addAccount-method-CustomerDAO/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-basic/solution-code-spring-aop-01-04-match-any-addStar-method/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-basic/solution-code-spring-aop-01-05-match-any-addStar-method-any-return-type/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-param/solution-code-spring-aop-02-01-match-method-with-account-param/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-param/solution-code-spring-aop-02-02-match-method-with-account-param-and-more-params/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-param/solution-code-spring-aop-02-03-match-method-with-any-params/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-match-method-param/solution-code-spring-aop-02-04-match-any-method-in-package/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-mvc-logging/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-pointcut-declarations-combo/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-pointcut-declarations/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-pointcut-order-aspects/src"/>
+	<classpathentry kind="src" path="solution-code-spring-aop-read-joinpoint/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
